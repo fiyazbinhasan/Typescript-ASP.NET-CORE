@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.ts"],"names":[],"mappings":"AAAA,IAAO,GAAG,CAET;AAFD,WAAO,GAAG,EAAC,CAAC;IACR,OAAO,CAAC,MAAM,CAAC,KAAK,EAAE,EAAE,CAAC,CAAC;AAC9B,CAAC,EAFM,GAAG,KAAH,GAAG,QAET","file":"app.js","sourcesContent":["module App {\r\n    angular.module(\"app\", []);\r\n}"],"sourceRoot":"/source/"}
